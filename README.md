@@ -1,10 +1,10 @@
 👋 Hi, I’m Theodore Van Dusen
 
-👀 I’m interested in web development.
+I build full stack web and mobile apps. I like working on projects that feel simple, fast, and well thought out.
 
-🌱 I’m currently learning the fundementals.
+Lately I’ve been diving into how frameworks actually work, render cycles, state handling, and the stuff that holds everything together.
 
-📫 Reach me at: vand0525@algonquinlive.com
+Reach me at: 📫 theodore.vandusen@hotmail.com
 
 
 
